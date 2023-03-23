@@ -1,0 +1,5 @@
+public class simple{
+psvm(){
+syout("code created by vishvajit");
+}
+}

@@ -1,3 +1,5 @@
 public class simple{
-  psvm(){
-  }
+  psvm()
+
+syout(changes made by vishvajit);
+  
